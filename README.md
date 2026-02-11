@@ -1,9 +1,5 @@
 # The Black-Scholes-Merton Framework: Stochastic Calculus & Dynamic Hedging
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ## 📄 Project Overview
 
 This project presents a comprehensive reconstruction of the **Black-Scholes-Merton (BSM) option pricing model**, moving from discrete probabilistic foundations to continuous-time hedging strategies.
